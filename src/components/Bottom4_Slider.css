@@ -1,0 +1,32 @@
+#card-bt4{
+    width: 350px !important;
+    background-color: #fff;
+    height: 90px;
+    border-radius: 10px;
+    display: inline-flex !important;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    padding-left: 40px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+}
+
+#card-bt4>img{
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    display: inline-block;
+}
+
+.card-bt4-text>p{
+    margin-left: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 5px;
+}
+
+.slickLists-4{
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-left: 30px;
+}
